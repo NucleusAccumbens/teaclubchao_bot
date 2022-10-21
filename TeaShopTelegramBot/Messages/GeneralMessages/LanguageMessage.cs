@@ -10,7 +10,7 @@ public class LanguageMessage
         {
             InlineKeyboardButton.WithCallbackData(text: "RU 🇷🇺", callbackData: "~🇷🇺"),
             InlineKeyboardButton.WithCallbackData(text: "EN 🇬🇧", callbackData: "~🇬🇧"),
-            InlineKeyboardButton.WithCallbackData(text: "IL 🇮🇱", callbackData: "~🇮🇱")
+            //InlineKeyboardButton.WithCallbackData(text: "IL 🇮🇱", callbackData: "~🇮🇱")
         },
     });
 
